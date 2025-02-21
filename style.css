@@ -50,9 +50,9 @@ body {
     height: 80px;
     border-radius: 10px;
     box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.1), 5px 5px 10px rgba(0, 0, 0, 0.2);
-    background: #444;
+    background: #745656;
     font-size: 25px;
-    color: #fff;
+    color: #ffffff;
     cursor: pointer;
     margin: 5px;
     transition: 0.3s ease-in-out;
@@ -63,10 +63,10 @@ form input.equal {
 }
 
 form input.operator {
-    color: #33ffd8;
-    background: #555;
+    color: #ff335c;
+    background: #232121;
 }
 
 form input:hover {
-    background: #666;
+    background: #581111;
 }
